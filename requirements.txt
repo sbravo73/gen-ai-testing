@@ -7,6 +7,7 @@ python-dotenv==1.0.0
 openai>=0.28.0
 tiktoken
 jupyter
+xlsxwriter
 
 #azure
 azure-ai-textanalytics
@@ -21,3 +22,4 @@ azure-cosmos
 azure-identity
 openai
 datasets
+
